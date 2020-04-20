@@ -1,0 +1,13 @@
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-top: 10rem;
+}
+
+.btn-outline-light {
+    color: #7952b3;
+    border-color: #7952b3;
+    border: 1px solid transparent;
+    
+}
